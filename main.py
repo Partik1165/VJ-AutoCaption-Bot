@@ -81,7 +81,7 @@ def about_buttons(bot, update):
     return pyrogram.types.InlineKeyboardMarkup(buttons)
 
 print("Telegram AutoCaption V1 Bot Start")
-print("Bot Created By @BotZ_Umesh)
+print("Bot Created By @BotZ_Umesh")
 
 AutoCaptionBotV1.run()
 
